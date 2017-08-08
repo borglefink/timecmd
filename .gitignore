@@ -1,0 +1,8 @@
+# Visual Studio Code and debug 
+.vscode/
+debug
+debug.config
+
+# Executables
+timecmd
+timecmd.exe
