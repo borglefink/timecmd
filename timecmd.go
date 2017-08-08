@@ -10,7 +10,7 @@ import (
 func main() {
 	if len(os.Args[1:]) == 0 {
 		fmt.Println("timecmd: Displays start time, end time and duration for a given command.")
-		fmt.Println("Usage  : timecmd [command] [optional arguments to command]")
+		fmt.Println("Usage  : timecmd [command] [optional parameters to command]")
 		os.Exit(0)
 	}
 
