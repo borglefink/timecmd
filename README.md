@@ -15,7 +15,7 @@ Duration  : 4.545437ms
 ## Usage
 
 ```
-timecmd [command] [optional arguments to command]
+timecmd [command] [optional parameters to command]
 ```
 
 ## Install
